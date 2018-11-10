@@ -1,0 +1,323 @@
+,CR,Name,HP,AC,Saving Throws,Senses,Passive Perception,Resistances,Immunities,Vulnerabilities,Size,Type,Alignment,STR,DEX,CON,INT,WIS,CHA,Speed,Skills
+0,0,Awakened Shrub,10 (3d6),9,,,10,Piercing,,Fire,Small,Plant,Unaligned,3,8,11,10,10,6,20,
+1,0,Baboon,3 (1d6),12,,,11,,,,Small,Beast,Unaligned,8,14,11,4,12,6,"30, climb 30",
+2,0,Badger,3 (1d4+1),10,,Darkvision 30 Ft.,11,,,,Tiny,Beast,Unaligned,4,11,12,2,12,5,"20, burrow 5",
+3,0,Bat,1 (1d4-1),12,,Blindsight 60 Ft.,11,,,,Tiny,Beast,Unaligned,2,15,8,2,12,4,"5, fly 30",
+4,0,Cat,2 (1d4),12,,,13,,,,Tiny,Beast,Unaligned,3,15,10,3,12,7,"40, climb 30","Perception +3, Stealth +4"
+5,0,Commoner,4 (1d8),10,,,10,,,,Medium,Humanoid (Any Race),Any Alignment,10,10,10,10,10,10,30,
+6,0,Crab,2 (1d4),11 (Natural Armor),,Blindsight 30 Ft.,9,,,,Tiny,Beast,Unaligned,2,11,10,1,8,2,"20, swim 20",Stealth +2
+7,0,Deer,4 (1d8),13,,,12,,,,Medium,Beast,Unaligned,11,16,11,2,14,5,50,
+8,0,Eagle,3 (1d6),12,,,14,,,,Small,Beast,Unaligned,6,15,10,2,14,7,"10, fly 60",Perception +4
+9,0,Frog,1 (1d4-1),11,,Darkvision 30 Ft.,11,,,,Tiny,Beast,Unaligned,1,13,8,1,8,3,"20, swim 20","Perception +1, Stealth +3"
+10,0,Giant Fire Beetle,4 (1d6+1),13 (Natural Armor),,Blindsight 30 Ft.,8,,,,Small,Beast,Unaligned,8,10,12,1,7,3,30,
+11,0,Goat,4 (1d8),10,,,10,,,,Medium,Beast,Unaligned,12,10,11,2,10,5,40,
+12,0,Hawk,1 (1d4-1),13,,,14,,,,Tiny,Beast,Unaligned,5,16,8,2,14,6,"10, fly 60",Perception +4
+13,0,Homunculus,5 (2d4),13 (Natural Armor),,Darkvision 60 Ft.,10,,Poison,,Tiny,Construct,Neutral,4,15,11,10,10,7,"20, fly 40",
+14,0,Hyena,5 (1d8+1),11,,,13,,,,Medium,Beast,Unaligned,11,13,12,2,12,5,50,Perception +3
+15,0,Jackal,3 (1d6),12,,,13,,,,Small,Beast,Unaligned,8,15,11,3,12,6,40,Perception +3
+16,0,Lemure,13 (3d8),7,,Darkvision 120 Ft.,10,Cold,"Fire, Poison",,Medium,Fiend (Devil),Lawful Evil,10,5,11,1,11,3,15,
+17,0,Lizard,2 (1d4),10,,Darkvision 30 Ft.,9,,,,Tiny,Beast,Unaligned,2,11,10,1,8,3,"20, climb 20",
+18,0,Octopus,3 (1d6),12,,Darkvision 30 Ft.,12,,,,Small,Beast,Unaligned,4,15,11,3,10,4,"5, swim 30","Perception +2, Stealth +4"
+19,0,Owl,1 (1d4-1),11,,Darkvision 120 Ft.,13,,,,Tiny,Beast,Unaligned,3,13,8,2,12,7,"5, fly 60","Perception +3, Stealth +3"
+20,0,Quipper,1 (1d4-1),13,,Darkvision 60 Ft.,8,,,,Tiny,Beast,Unaligned,2,16,9,1,7,2,Swim 40,
+21,0,Rat,1 (1d4-1),10,,Darkvision 30 Ft.,10,,,,Tiny,Beast,Unaligned,2,11,9,2,10,4,20,
+22,0,Raven,1 (1d4-1),12,,,13,,,,Tiny,Beast,Unaligned,2,14,8,2,12,6,"10, fly 50",Perception +3
+23,0,Scorpion,1 (1d4-1),11 (Natural Armor),,Blindsight 10 Ft.,9,,,,Tiny,Beast,Unaligned,2,11,8,1,8,2,10,
+24,0,Sea Horse,1 (1d4-1),11,,,10,,,,Tiny,Beast,Unaligned,1,12,8,1,10,2,Swim 20,
+25,0,Shrieker,13 (3d8),5,,Blindsight 30 Ft. (Blind Beyond This Radius),6,,,,Medium,Plant,Unaligned,1,1,10,1,3,1,0,
+26,0,Spider,1 (1d4-1),12,,Darkvision 30 Ft.,12,,,,Tiny,Beast,Unaligned,2,14,8,1,10,2,"20, climb 20",Stealth +4
+27,0,Vulture,5 (1d8+1),10,,,13,,,,Medium,Beast,Unaligned,7,10,13,2,12,4,"10, fly 50",Perception +3
+28,0,Weasel,1 (1d4-1),13,,,13,,,,Tiny,Beast,Unaligned,3,16,8,2,12,3,30,"Perception +3, Stealth +5"
+29,1/8,Bandit,11 (2d8+2),12 (Leather Armor),,,10,,,,Medium,Humanoid (Any Race),Any Non-lawful Alignment,11,12,12,10,10,10,30,
+30,1/8,Blood Hawk,7 (2d6),12,,,14,,,,Small,Beast,Unaligned,6,14,10,3,14,5,"10, fly 60",Perception +4
+31,1/8,Camel,15 (2d10+4),9,,,9,,,,Large,Beast,Unaligned,16,8,14,2,8,5,50,
+32,1/8,Cultist,9 (2d8),12 (Leather Armor),,,10,,,,Medium,Humanoid (Any Race),Any Non-good Alignment,11,12,10,10,11,10,30,"Deception +2, Religion +2"
+33,1/8,Diseased Giant Rat,7,12,,Darkvision 60 ft.,10,,,,Small,Beast,Unaligned,7,15,11,2,10,4,30,
+34,1/8,Flying Snake,5 (2d4),14,,Blindsight 10 Ft.,11,,,,Tiny,Beast,Unaligned,4,18,11,2,12,5,"30, fly 60, swim 30",
+35,1/8,Giant Crab,13 (3d8),15 (Natural Armor),,Blindsight 30 Ft.,9,,,,Medium,Beast,Unaligned,13,15,11,1,9,3,"30, swim 30",Stealth +4
+36,1/8,Giant Rat,7 (2d6),12,,Darkvision 60 Ft.,10,,,,Small,Beast,Unaligned,7,15,11,2,10,4,30,
+37,1/8,Giant Weasel,9 (2d8),13,,Darkvision 60 Ft.,13,,,,Medium,Beast,Unaligned,11,16,10,4,12,5,40,"Perception +3, Stealth +5"
+38,1/8,Guard,11 (2d8+2),"16 (Chain Shirt, Shield)",,,12,,,,Medium,Humanoid (Any Race),Any Alignment,13,12,12,10,11,10,30,Perception +2
+39,1/8,Kobold,5 (2d6-2),12,,Darkvision 60 Ft.,8,,,,Small,Humanoid (Kobold),Lawful Evil,7,15,9,8,7,8,30,
+40,1/8,Mastiff,5 (1d8+1),12,,,13,,,,Medium,Beast,Unaligned,13,14,12,3,12,7,40,Perception +3
+41,1/8,Merfolk,11 (2d8+2),11,,,12,,,,Medium,Humanoid (Merfolk),Neutral,10,13,12,11,11,12,"10, swim 40",Perception +2
+42,1/8,Mule,11 (2d8+2),10,,,10,,,,Medium,Beast,Unaligned,14,10,13,2,10,5,40,
+43,1/8,Noble,9 (2d8),15 (Breastplate),,,12,,,,Medium,Humanoid (Any Race),Any Alignment,11,12,11,12,14,16,30,"Deception +5, Insight +4, Persuasion +5"
+44,1/8,Poisonous Snake,2 (1d4),13,,Blindsight 10 Ft.,10,,,,Tiny,Beast,Unaligned,2,16,11,1,10,3,"30, swim 30",
+45,1/8,Pony,11 (2d8+2),10,,,10,,,,Medium,Beast,Unaligned,15,10,13,2,11,7,40,
+46,1/8,Stirge,2 (1d4),14 (Natural Armor),,Darkvision 60 Ft.,9,,,,Tiny,Beast,Unaligned,4,16,11,2,8,6,"10, fly 40",
+47,1/8,Tribal Warrior,11 (2d8+2),12 (Hide Armor),,,10,,,,Medium,Humanoid (Any Race),Any Alignment,13,11,12,8,11,8,30,
+48,1/4,Acolyte,9 (2d8),10,,,12,,,,Medium,Humanoid (Any Race),Any Alignment,10,10,10,10,14,11,30,"Medicine +4, Religion +2"
+49,1/4,Axe Beak,19 (3d10+3),11,,,10,,,,Large,Beast,Unaligned,14,12,12,2,10,5,50,
+50,1/4,Blink Dog,22 (4d8+4),13,,,10,,,,Medium,Fey,Lawful Good,12,17,12,10,13,11,40,"Perception +3, Stealth +5"
+51,1/4,Boar,11 (2d8+2),11 (Natural Armor),,,9,,,,Medium,Beast,Unaligned,13,11,12,2,9,5,40,
+52,1/4,Constrictor Snake,13 (2d10+2),12,,Blindsight 10 Ft.,10,,,,Large,Beast,Unaligned,15,14,12,1,10,3,"30, swim 30",
+53,1/4,Draft Horse,19 (3d10+3),10,,,10,,,,Large,Beast,Unaligned,18,10,12,2,11,7,40,
+54,1/4,Dretch,18 (4d6+4),11 (Natural Armor),,Darkvision 60 Ft.,9,"Cold, Fire, Lightning",Poison,,Small,Fiend (Demon),Chaotic Evil,11,11,12,5,8,3,20,
+55,1/4,Drow,13 (3d8),15 (Chain Shirt),,Darkvision 120 Ft.,12,,,,Medium,Humanoid (Elf),Neutral Evil,10,14,10,11,11,12,30,"Perception +2, Stealth +4"
+56,1/4,Elk,13 (2d10+2),10,,,10,,,,Large,Beast,Unaligned,16,10,12,2,10,6,50,
+57,1/4,Flying Sword,17 (5d6),17 (Natural Armor),Dex +4,Blindsight 60 Ft. (Blind Beyond This Radius),7,,"Poison, Psychic",,Small,Construct,Unaligned,12,15,11,1,5,1,"0, fly 50 It can hover.",
+58,1/4,Giant Badger,13 (2d8+4),10,,Darkvision 30 Ft.,11,,,,Medium,Beast,Unaligned,13,10,15,2,12,5,"30, burrow 10",
+59,1/4,Giant Bat,22 (4d10),13,,Blindsight 60 Ft.,11,,,,Large,Beast,Unaligned,15,16,11,2,12,6,"10, fly 60",
+60,1/4,Giant Centipede,4 (1d6+1),13 (Natural Armor),,Blindsight 30 Ft.,8,,,,Small,Beast,Unaligned,5,14,12,1,7,3,"30, climb 30",
+61,1/4,Giant Frog,18 (4d8),11,,Darkvision 30 Ft.,12,,,,Medium,Beast,Unaligned,12,13,11,2,10,3,"30, swim 30","Perception +2, Stealth +3"
+62,1/4,Giant Lizard,19 (3d10+3),12 (Natural Armor),,Darkvision 30 Ft.,10,,,,Large,Beast,Unaligned,15,12,13,2,10,5,"30, climb 30",
+63,1/4,Giant Owl,19 (3d10+3),12,,Darkvision 120 Ft.,15,,,,Large,Beast,Neutral,13,15,12,8,13,10,"5, fly 60","Perception +5, Stealth +4"
+64,1/4,Giant Poisonous Snake,11 (2d8+2),14,,Blindsight 10 Ft.,12,,,,Medium,Beast,Unaligned,10,18,13,2,10,3,"30, swim 30",Perception +2
+65,1/4,Giant Wolf Spider,11 (2d8+2),13,,"Blindsight 10 Ft., Darkvision 60 Ft.",13,,,,Medium,Beast,Unaligned,12,16,13,3,12,4,"40, climb 40","Perception +3, Stealth +7"
+66,1/4,Goblin,7 (2d6),"15 (Leather Armor, Shield)",,Darkvision 60 Ft.,9,,,,Small,Humanoid (Goblinoid),Neutral Evil,8,14,10,10,8,8,30,Stealth +6
+67,1/4,Grimlock,11 (2d8+2),11,,Blindsight 30 Ft. Or 10 Ft. While Deafened (Blind Beyond This Radius),13,,Blinded,,Medium,Humanoid (Grimlock),Neutral Evil,16,12,12,9,8,6,30,"Athletics +5, Perception +3, Stealth +3"
+68,1/4,Panther,13 (3d8),12,,,14,,,,Medium,Beast,Unaligned,14,15,10,3,14,7,"50, climb 40","Perception +4, Stealth +6"
+69,1/4,Pseudodragon,7 (2d4+2),13,,"Blindsight 10 Ft., Darkvision 60 Ft.",13,,,,Tiny,Dragon,Neutral Good,6,15,13,10,12,10,"15, fly 60","Perception +3, Stealth +4"
+70,1/4,Riding Horse,13 (2d10+2),10,,,10,,,,Large,Beast,Unaligned,16,10,12,2,11,7,60,
+71,1/4,Skeleton,13 (2d8+4),13 (Armor Scraps),,Darkvision 60 Ft.,9,,Poison,Bludgeoning,Medium,Undead,Lawful Evil,10,14,15,6,8,5,30,
+72,1/4,Sprite,2 (1d4),15 (Leather Armor),,,13,,,,Tiny,Fey,Neutral Good,3,18,10,14,13,11,"10, fly 40","Perception +3, Stealth +8"
+73,1/4,Steam Mephit,21 (6d6),10,,Darkvision 60 Ft.,10,,"Fire, Poison",,Small,Elemental,Neutral Evil,5,11,10,11,10,12,"30, fly 30",
+74,1/4,Swarm of Bats,22 (5d8),12,,Blindsight 60 Ft.,11,"Bludgeoning, Piercing, Slashing",,,Medium,Swarm Of Tiny Beasts,Unaligned,5,15,10,2,12,4,"0, fly 30",
+75,1/4,Swarm of Rats,24 (7d8-7),10,,Darkvision 30 Ft.,10,"Bludgeoning, Piercing, Slashing",,,Medium,Swarm Of Tiny Beasts,Unaligned,9,11,9,2,10,3,30,
+76,1/4,Swarm of Ravens,24 (7d8-7),12,,,15,"Bludgeoning, Piercing, Slashing",,,Medium,Swarm Of Tiny Beasts,Unaligned,6,14,8,3,12,6,"10, fly 50",
+77,1/4,Violet Fungus,18 (4d8),5,,Blindsight 30 Ft. (Blind Beyond This Radius),6,,,,Medium,Plant,Unaligned,3,1,10,1,3,1,5,
+78,1/4,Wolf,11 (2d8+2),13 (Natural Armor),,,13,,,,Medium,Beast,Unaligned,12,15,12,3,12,6,40,"Perception +3, Stealth +4"
+79,1/4,Zombie,22 (3d8+9),8,Wis +0,Darkvision 60 Ft.,8,,Poison,,Medium,Undead,Neutral Evil,13,6,16,3,6,5,20,
+80,1/2,Ape,19 (3d8+6),12,,,13,,,,Medium,Beast,Unaligned,16,14,14,6,12,7,"30, climb 30","Athletics +5, Perception +3"
+81,1/2,Black Bear,19 (3d8+6),11 (Natural Armor),,,13,,,,Medium,Beast,Unaligned,15,10,14,2,12,7,"40, climb 30",
+82,1/2,Cockatrice,27 (6d6+6),11,,Darkvision 60 Ft.,11,,,,Small,Monstrosity,Unaligned,6,12,12,2,13,5,"20, fly 40",
+83,1/2,Crocodile,19 (3d10+3),12 (Natural Armor),,,10,,,,Large,Beast,Unaligned,15,10,13,2,10,5,"20, swim 20",Stealth +2
+84,1/2,Darkmantle,22 (5d6+5),11,,Blindsight 60 Ft.,10,,,,Small,Monstrosity,Unaligned,16,12,13,2,10,5,"10, fly 30",Stealth +3
+85,1/2,Deep Gnome (Svirfneblin),16 (3d6 + 6),15 (chain shirt),,Darkvision 120 ft.,12,,,,Small,Humanoid (gnome),Neutral Good,15,14,14,12,10,9,20,"Investigation +3, Perception +2, Stealth +4"
+86,1/2,Dust Mephit,17 (5d6),12,,Darkvision 60 Ft.,12,,Poison,Fire,Small,Elemental,Neutral Evil,5,14,10,9,11,10,"30, fly 30","Perception +2, Stealth +4"
+87,1/2,Giant Goat,19 (3d10+3),11 (Natural Armor),,,11,,,,Large,Beast,Unaligned,17,11,12,3,12,6,40,
+88,1/2,Giant Sea Horse,16 (3d10),13 (Natural Armor),,,11,,,,Large,Beast,Unaligned,12,15,11,2,12,5,"0, swim 40",
+89,1/2,Giant Wasp,13 (3d8),12,,,10,,,,Medium,Beast,Unaligned,10,14,10,1,10,3,"10, fly 50, swim 50",
+90,1/2,Gnoll,22 (5d8),"15 (Hide Armor, Shield)",,Darkvision 60 Ft.,10,,,,Medium,Humanoid (Gnoll),Chaotic Evil,14,12,11,6,10,7,30,
+91,1/2,Gray Ooze,22 (3d8+9),8,,Blindsight 60 Ft. (Blind Beyond This Radius),8,"Acid, Cold, Fire",,,Medium,Ooze,Unaligned,12,6,16,1,6,2,"10, climb 10",Stealth +2
+92,1/2,Hobgoblin,11 (2d8+2),"18 (Chain Mail, Shield)",,Darkvision 60 Ft.,10,,,,Medium,Humanoid (Goblinoid),Lawful Evil,13,12,12,10,10,9,30,
+93,1/2,Ice Mephit,21 (6d6),11,,Darkvision 60 Ft.,12,,"Cold, Poison","Bludgeoning, Fire",Small,Elemental,Neutral Evil,7,13,10,9,11,12,"30, fly 30","Perception +2, Stealth +3"
+94,1/2,Lizardfolk,22 (4d8+4),"15 (Natural Armor, Shield)",,,13,,,,Medium,Humanoid (Lizardfolk),Neutral,15,10,13,7,12,7,"30, swim 30","Perception +3, Stealth +4, Survival +5"
+95,1/2,Magma Mephit,22 (5d6+5),11,,Darkvision 60 Ft.,10,,"Fire, Poison",Cold,Small,Elemental,Neutral Evil,8,12,12,7,10,10,"30, fly 30",Stealth +3
+96,1/2,Magmin,9 (2d6+2),14 (Natural Armor),,Darkvision 60 Ft.,10,"Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",Fire,,Small,Elemental,Chaotic Neutral,7,15,12,8,11,10,30,
+97,1/2,Orc,15 (2d8+6),13 (Hide Armor),,Darkvision 60 Ft.,10,,,,Medium,Humanoid (Orc),Chaotic Evil,16,12,16,7,11,10,30,Intimidation +2
+98,1/2,Reef Shark,22 (4d8+4),12 (Natural Armor),,Blindsight 30 Ft.,12,,,,Medium,Beast,Unaligned,14,13,13,1,10,4,Swim 40,Perception +2
+99,1/2,Rust Monster,27 (5d8+5),14 (Natural Armor),,Darkvision 60 Ft.,11,,,,Medium,Monstrosity,Unaligned,13,12,13,2,13,6,40,
+100,1/2,Sahuagin,22 (4d8+4),12 (Natural Armor),,Darkvision 120 Ft.,15,,,,Medium,Humanoid (Sahuagin),Lawful Evil,13,11,12,12,13,9,"30, swim 40",Perception +5
+101,1/2,Satyr,31 (7d8),14 (Leather Armor),,,12,,,,Medium,Fey,Chaotic Neutral,12,16,11,12,10,14,40,"Perception +2, Performance +6, Stealth +5"
+102,1/2,Scout,16 (3d8+3),13 (Leather Armor),,,15,,,,Medium,Humanoid (Any Race),Any Alignment,11,14,12,11,13,11,30,"Nature +4, Perception +5, Stealth +6, Survival +5"
+103,1/2,Shadow,16 (3d8+3),12,,Darkvision 60 Ft.,10,"Acid, Cold, Fire, Lightning, Thunder; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons","Necrotic, Poison",Radiant,Medium,Undead,Chaotic Evil,6,14,13,6,10,8,40,Stealth +4
+104,1/2,Swarm of Beetles,22 (5d8),12 (Natural Armor),,Blindsight 10 Ft.,8,"Bludgeoning, Piercing, Slashing",,,Medium,Swarm Of Tiny Beasts,Unaligned,3,13,10,1,7,1,"20, burrow 5, climb 20",
+105,1/2,Swarm of Centipedes,22 (5d8),12 (Natural Armor),,Blindsight 10 Ft.,8,"Bludgeoning, Piercing, Slashing",,,Medium,Swarm Of Tiny Beasts,Unaligned,3,13,10,1,7,1,"20, climb 20",
+106,1/2,Swarm of Insects,22 (5d8),12 (Natural Armor),,Blindsight 10 Ft.,8,"Bludgeoning, Piercing, Slashing",,,Medium,Swarm Of Tiny Beasts,Unaligned,3,13,10,1,7,1,"20, climb 20",
+107,1/2,Swarm of Spiders,22 (5d8),12 (Natural Armor),,Blindsight 10 Ft.,8,"Bludgeoning, Piercing, Slashing",,,Medium,Swarm Of Tiny Beasts,Unaligned,3,13,10,1,7,1,"20, climb 20",
+108,1/2,Swarm of Wasps,22 (5d8),12 (Natural Armor),,Blindsight 10 Ft.,8,"Bludgeoning, Piercing, Slashing",,,Medium,Swarm Of Tiny Beasts,Unaligned,3,13,10,1,7,1,"5, fly 30",
+109,1/2,Thug,32 (5d8+10),11 (Leather Armor),,,10,,,,Medium,Humanoid (Any Race),Any Non-good Alignment,15,11,14,10,10,11,30,Intimidation +2
+110,1/2,Warhorse,19 (3d10+3),11,,,11,,,,Large,Beast,Unaligned,18,12,13,2,12,7,60,
+111,1/2,Warhorse Skeleton,22 (3d10+6),13 (Barding Scraps),,Darkvision 60 Ft.,9,,Poison,Bludgeoning,Large,Undead,Lawful Evil,18,12,15,2,8,5,60,
+112,1/2,Worg,26 (4d10+4),13 (Natural Armor),,Darkvision 60 Ft.,14,,,,Large,Monstrosity,Neutral Evil,16,13,13,7,11,8,50,Perception +4
+113,1,Animated Armor,33 (6d8+6),18 (Natural Armor),,Blindsight 60 Ft. (Blind Beyond This Radius),6,,"Poison, Psychic",,Medium,Construct,Unaligned,14,11,13,1,3,1,25,
+114,1,Brass Dragon Wyrmling,16 (3d8+3),16 (Natural Armor),"Dex +2, Con +3, Wis +2, Cha +3","Blindsight 10 Ft., Darkvision 60 Ft.",14,,Fire,,Medium,Dragon,Chaotic Good,15,10,13,10,11,13,"30, burrow 15, fly 60","Perception +4, Stealth +2"
+115,1,Brown Bear,34 (4d10+12),11 (Natural Armor),,,13,,,,Large,Beast,Unaligned,19,10,16,2,13,7,"40, climb 30",Perception +3
+116,1,Bugbear,27 (5d8+5),"16 (Hide Armor, Shield)",,Darkvision 60 Ft.,10,,,,Medium,Humanoid (Goblinoid),Chaotic Evil,15,14,13,8,11,9,30,"Stealth +6, Survival +2"
+117,1,Copper Dragon Wyrmling,22 (4d8+4),16 (Natural Armor),"Dex +3, Con +3, Wis +2, Cha +3","Blindsight 10 Ft., Darkvision 60 Ft.",14,,Acid,,Medium,Dragon,Chaotic Good,15,12,13,14,11,13,"30, climb 30, fly 60","Perception +4, Stealth +3"
+118,1,Death Dog,39 (6d8+12),12,,Darkvision 120 Ft.,15,,,,Medium,Monstrosity,Neutral Evil,15,14,14,3,13,6,40,"Perception +5, Stealth +4"
+119,1,Dire Wolf,37 (5d10+10),14 (Natural Armor),,,13,,,,Large,Beast,Unaligned,17,15,15,3,12,7,50,"Perception +3, Stealth +4"
+120,1,Dryad,22 (5d8),11 (16 With Barkskin),,Darkvision 60 Ft.,14,,,,Medium,Fey,Neutral,10,12,11,14,15,18,30,"Perception +4, Stealth +5"
+121,1,Duergar,26 (4d8+4),"16 (Scale Mail, Shield)",,Darkvision 120 Ft.,10,Poison,,,Medium,Humanoid (Dwarf),Lawful Evil,14,11,14,11,10,9,25,
+122,1,Ghoul,22 (5d8),12,,Darkvision 60 Ft.,10,,Poison,,Medium,Undead,Chaotic Evil,13,15,10,7,10,6,30,
+123,1,Giant Eagle,26 (4d10+4),13,,,14,,,,Large,Beast,Neutral Good,16,17,13,8,14,10,"10, fly 80",Perception +4
+124,1,Giant Hyena,45 (6d10+12),12,,,13,,,,Large,Beast,Unaligned,16,14,14,2,12,7,50,Perception +3
+125,1,Giant Octopus,52 (8d10+8),11,,Darkvision 60 Ft.,14,,,,Large,Beast,Unaligned,17,13,13,4,10,4,"10, swim 60","Perception +4, Stealth +5"
+126,1,Giant Spider,26 (4d10+4),14 (Natural Armor),,"Blindsight 10 Ft., Darkvision 60 Ft.",10,,,,Large,Beast,Unaligned,14,16,12,2,11,4,"30, climb 30",Stealth +7
+127,1,Giant Toad,39 (6d10+6),11,,Darkvision 30 Ft.,10,,,,Large,Beast,Unaligned,15,13,13,2,10,3,"20, swim 40",
+128,1,Giant Vulture,22 (3d10+6),10,,,13,,,,Large,Beast,Neutral Evil,15,10,15,6,12,7,"10, fly 60",Perception +3
+129,1,Harpy,38 (7d8+7),11,,,10,,,,Medium,Monstrosity,Chaotic Evil,12,13,12,7,10,13,"20, fly 40",
+130,1,Hippogriff,19 (3d10+3),11,,,15,,,,Large,Monstrosity,Unaligned,17,13,13,2,12,8,"40 ft, fly 60",Perception +5
+131,1,Imp,10 (3d4+3),13,,Darkvision 120 Ft.,11,"Cold; Bludgeoning, Piercing, And Slashing From Nonmagical/nonsilver Weapons","Fire, Poison",,Tiny,Fiend (Devil),Lawful Evil,6,17,13,11,12,14,"20, fly 40","Deception +4, Insight +3, Persuasion +4, Stealth +5"
+132,1,Lion,26 (4d10+4),12,,,13,,,,Large,Beast,Unaligned,17,15,13,3,12,8,50,"Perception +3, Stealth +6"
+133,1,Quasit,7 (3d4),13,,Darkvision 120 Ft.,10,"Cold; Fire; Lightning; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",Poison,,Tiny,Fiend (Demon),Chaotic Evil,5,17,10,7,10,10,40,Stealth +5
+134,1,Specter,22 (5d8),12,,Darkvision 60 Ft.,10,"Acid, Cold, Fire, Lightning, Thunder; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons","Necrotic, Poison",,Medium,Undead,Chaotic Evil,1,14,11,10,10,11,"0, fly 50 (hover)",
+135,1,Spy,27 (6d8),12,,,16,,,,Medium,Humanoid (Any Race),Any Alignment,10,15,10,12,14,16,30,"Deception +5, Insight +4, Investigation +5, Perception +6, Persuasion +5, Sleight Of Hand +4, Stealth +4"
+136,1,Swarm of Quippers,28 (8d8-8),13,,Darkvision 60 Ft.,8,"Bludgeoning, Piercing, Slashing",,,Medium,Swarm Of Tiny Beasts,Unaligned,13,16,9,1,7,2,"0, swim 40",
+137,1,Tiger,37 (5d10+10),12,,Darkvision 60 Ft.,13,,,,Large,Beast,Unaligned,17,15,14,3,12,8,40,"Perception +3, Stealth +6"
+138,2,Ankheg,39 (6d10+6),"14 (Natural Armor, 11 While Prone)",,"Darkvision 60 Ft., Tremorsense 60 Ft.",11,,,,Large,Monstrosity,Unaligned,17,11,13,1,13,6,"30, burrow 10",
+139,2,Awakened Tree,59 (7d12+14),13 (Natural Armor),,,10,"Bludgeoning, Piercing",,Fire,Huge,Plant,Unaligned,19,6,15,10,10,7,20,
+140,2,Azer,39 (6d8+12),"17 (Natural Armor, Shield)",Con +4,,11,,"Fire, Poison",,Medium,Elemental,Lawful Neutral,17,12,15,12,13,10,30,
+141,2,Bandit Captain,65 (10d8+20),15 (Studded Leather),"Str +4, Dex +5, Wis +2",,10,,,,Medium,Humanoid (Any Race),Any Non-lawful Alignment,15,16,14,14,11,14,30,"Athletics +4, Deception +4"
+142,2,Berserker,67 (9d8+27),13 (Hide Armor),,,10,,,,Medium,Humanoid (Any Race),Any Chaotic Alignment,16,12,17,9,11,9,30,
+143,2,Black Dragon Wyrmling,33 (6d8+6),17 (Natural Armor),"Dex +4, Con +3, Wis +2, Cha +3","Blindsight 10 Ft., Darkvision 60 Ft.",14,,Acid,,Medium,Dragon,Chaotic Evil,15,14,13,10,11,13,"30, fly 60, swim 30","Perception +4, Stealth +4"
+144,2,Bronze Dragon Wyrmling,32 (5d8+10),17 (Natural Armor),"Dex +2, Con +4, Wis +2, Cha +4","Blindsight 10 Ft., Darkvision 60 Ft.",14,,Lightning,,Medium,Dragon,Lawful Good,17,10,15,12,11,15,"30, fly 60, swim 30","Perception +4, Stealth +2"
+145,2,Centaur,45 (6d10+12),12,,,13,,,,Large,Monstrosity,Neutral Good,18,14,14,9,13,11,50,"Athletics +6, Perception +3, Survival +3"
+146,2,Cult Fanatic,22 (6d8+6),13 (Leather Armor),,,11,,,,Medium,Humanoid (Any Race),Any Non-good Alignment,11,14,12,10,13,14,30,"Deception +4, Persuasion +4, Religion +2"
+147,2,Druid,27 (5d8+5),11 (16 With Barkskin),,,14,,,,Medium,Humanoid (Any Race),Any Alignment,10,12,13,12,15,11,30,"Medicine +4, Nature +3, Perception +4"
+148,2,Ettercap,44 (8d8+8),13 (Natural Armor),,Darkvision 60 Ft.,13,,,,Medium,Monstrosity,Neutral Evil,14,15,13,7,12,8,"30, climb 30","Perception +3, Stealth +4, Survival +3"
+149,2,Gargoyle,52 (7d8+21),15 (Natural Armor),,Darkvision 60 Ft.,10,"Bludgeoning, Piercing, And Slashing From Nonmagical Weapons That Aren't Adamantine",Poison,,Medium,Elemental,Chaotic Evil,15,11,16,6,11,7,"30, fly 60",
+150,2,Gelatinous Cube,84 (8d10+40),6,,Blindsight 60 Ft. (Blind Beyond This Radius),8,,,,Large,Ooze,Unaligned,14,3,20,1,6,1,15,
+151,2,Ghast,36 (8d8),13,,Darkvision 60 Ft.,10,,Necrotic,,Medium,Undead,Chaotic Evil,16,17,10,11,10,8,30,
+152,2,Giant Boar,42 (5d10+5),12 (Natural Armor),,,8,,,,Large,Beast,Unaligned,17,10,16,2,7,5,40,
+153,2,Giant Constrictor Snake,60 (8d12+8),12,,Blindsight 10 Ft.,12,,,,Huge,Beast,Unaligned,19,14,12,1,10,3,"30, swim 30",Perception +2
+154,2,Giant Elk,42 (5d12+10),14 (Natural Armor),,,14,,,,Huge,Beast,Unaligned,19,16,14,7,14,10,60,Perception +4
+155,2,Gibbering Mouther,67 (9d8+27),9,,Darkvision 60 Ft.,10,,,,Medium,Aberration,Neutral,10,8,16,3,10,6,"10, swim 10",
+156,2,Green Dragon Wyrmling,38 (7d8+7),17 (Natural Armor),"Dex +3, Con +3, Wis +2, Cha +3","Blindsight 10 Ft., Darkvision 60 Ft.",14,,Poison,,Medium,Dragon,Lawful Evil,15,12,13,14,11,13,"30, fly 60, swim 30","Perception +4, Stealth +3"
+157,2,Grick,27 (6d8),14 (Natural Armor),,Darkvision 60 Ft.,12,"Bludgeoning, Piercing, And Slashing Damage From Nonmagical Weapons",,,Medium,Monstrosity,Neutral,14,14,11,3,14,5,"30, climb 30",
+158,2,Griffon,59 (7d10+21),12,,Darkvision 60 Ft.,15,,,,Large,Monstrosity,Unaligned,18,15,16,2,13,8,"30, fly 80",Perception +5
+159,2,Hunter Shark,45 (6d10+12),12 (Natural Armor),,Darkvision 30 Ft.,12,,,,Large,Beast,Unaligned,18,13,15,1,10,4,Swim 40,Perception +2
+160,2,Merrow,45 (6d10+12),13 (Natural Armor),,Darkvision 60 Ft.,10,,,,Large,Monstrosity,Chaotic Evil,18,10,15,8,10,9,"10, swim 40",
+161,2,Mimic,58 (9d8+18),12 (Natural Armor),,Darkvision 60 Ft.,11,,Acid,,Medium,Monstrosity (Shapechanger),Neutral,17,12,15,5,13,8,15,Stealth +5
+162,2,Minotaur Skeleton,67 (9d10+18),12 (Natural Armor),,Darkvision 60 Ft.,9,,Poison,Bludgeoning,Large,Undead,Lawful Evil,18,11,15,6,8,5,40,
+163,2,Ochre Jelly,45 (6d10+12),8,,Blindsight 60 Ft. (Blind Beyond This Radius),8,Acid,"Lightning, Slashing",,Large,Ooze,Unaligned,15,6,14,2,6,1,"10, climb 10",
+164,2,Ogre,59 (7d10+21),11 (Hide Armor),,Darkvision 60 Ft.,8,,,,Large,Giant,Chaotic Evil,19,8,16,5,7,7,40,
+165,2,Ogre Zombie,85 (9d10+36),8,Wis +0,Darkvision 60 Ft.,8,,Poison,,Large,Undead,Neutral Evil,19,6,18,3,6,5,30,
+166,2,Pegasus,59 (7d10+21),12,"Dex +4, Wis +4, Cha +3",,16,,,,Large,Celestial,Chaotic Good,18,15,16,10,15,13,"60, fly 90",Perception +6
+167,2,Plesiosaurus,68 (8d10+24),13 (Natural Armor),,,13,,,,Large,Beast,Unaligned,18,15,16,2,12,5,"20, swim 40","Perception +3, Stealth +4"
+168,2,Polar Bear,42 (5d10+15),12 (Natural Armor),,,13,,,,Large,Beast,Unaligned,20,10,16,2,13,7,"40, swim 30",Perception +3
+169,2,Priest,27 (5d8+5),13 (Chain Shirt),,,13,,,,Medium,Humanoid (Any Race),Any Alignment,10,10,12,13,16,13,25,"Medicine +7, Persuasion +3, Religion +4"
+170,2,Rhinoceros,45 (6d10+12),11 (Natural Armor),,,11,,,,Large,Beast,Unaligned,21,8,15,2,12,6,40,
+171,2,Rug of Smothering,33 (6d10),12,,Blindsight 60 Ft. (Blind Beyond This Radius),6,,"Poison, Psychic",,Large,Construct,Unaligned,17,14,10,1,3,1,10,
+172,2,Saber-Toothed Tiger,52,12,,,13,,,,Large,Beast,Unaligned,18,14,15,3,12,8,40,"Perception +3, Stealth +6"
+173,2,Sea Hag,52 (7d8+21),14 (Natural Armor),,Darkvision 60 Ft.,11,,,,Medium,Fey,Chaotic Evil,16,13,16,12,12,13,"30, swim 40",
+174,2,Silver Dragon Wyrmling,45 (6d8+18),17 (Natural Armor),"Dex +2, Con +5, Wis +2, Cha +4","Blindsight 10 Ft., Darkvision 60 Ft.",14,,Cold,,Medium,Dragon,Lawful Good,19,10,17,12,11,15,"30, fly 60","Perception +4, Stealth +2"
+175,2,Swarm of Poisonous Snakes,36 (8d8),14,,Blindsight 10 Ft.,10,"Bludgeoning, Piercing, Slashing",,,Medium,Swarm Of Tiny Beasts,Unaligned,8,18,11,1,10,3,"30, swim 30",
+176,2,Wererat,33 (6d8+6),12,,Darkvision 60 Ft. (Rat Form Only),12,,"Bludgeoning, Piercing, And Slashing Damage From Nonmagical Weapons That Aren't Silvered",,Medium,"Humanoid (Human, Shapechanger)",Lawful Evil,10,15,12,11,10,8,30,"Perception +2, Stealth +4"
+177,2,White Dragon Wyrmling,32 (5d8+10),16 (Natural Armor),"Dex +2, Con +4, Wis +2, Cha +2","Blindsight 10 Ft., Darkvision 60 Ft.",14,,Cold,,Medium,Dragon,Chaotic Evil,14,10,14,5,10,11,"30, burrow 15, fly 60, swim 30","Perception +4, Stealth +2"
+178,2,Will-o'-Wisp,22,19,,Darkvision 120 ft.,12,"Acid, Cold, Fire, Necrotic, Thunder; Bludgeoning, Piercing, and Slashing from nonmagical attacks","Lightning, Poison",,Tiny,Undead,Chaotic Evil,1,28,10,13,14,11,"0, fly 50 (hover)",
+179,3,Basilisk,52 (8d8+16),12 (Natural Armor),,Darkvision 60 Ft.,9,,,,Medium,Monstrosity,Unaligned,16,8,15,2,8,7,20,
+180,3,Bearded Devil,52 (8d8+16),13 (Natural Armor),"Str +5, Con +4, Wis +2",Darkvision 120 Ft.,10,"Cold; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons That Aren't Silvered","Fire, Poison",,Medium,Fiend (Devil),Lawful Evil,16,15,15,9,11,11,30,
+181,3,Blue Dragon Wyrmling,52 (8d8+16),17 (Natural Armor),"Dex +2, Con +4, Wis +2, Cha +4","Blindsight 10 Ft., Darkvision 60 Ft.",14,,Lightning,,Medium,Dragon,Lawful Evil,17,10,15,12,11,15,"30, burrow 15, fly 60","Perception +4, Stealth +2"
+182,3,Doppelganger,52 (8d8+16),14,,Darkvision 60 Ft.,11,,Charmed,,Medium,Monstrosity (Shapechanger),Unaligned,11,18,14,11,12,14,30,"Deception +6, Insight +3"
+183,3,Giant Scorpion,52 (7d10+14),15 (Natural Armor),,Blindsight 60 Ft.,9,,,,Large,Beast,Unaligned,15,13,15,1,9,3,40,
+184,3,Gold Dragon Wyrmling,60 (8d8+24),17 (Natural Armor),"Dex +4, Con +5, Wis +2, Cha +5","Blindsight 10 Ft., Darkvision 60 Ft.",14,,Fire,,Medium,Dragon,Lawful Good,19,14,17,14,11,16,"30, fly 60, swim 30","Perception +4, Stealth +4"
+185,3,Green Hag,82 (11d8+33),17 (Natural Armor),,Darkvision 60 Ft.,14,,,,Medium,Fey,Neutral Evil,18,12,16,13,14,14,30,"Arcana +3, Deception +4, Perception +4, Stealth +3"
+186,3,Hell Hound,45 (7d8+14),15 (Natural Armor),,Darkvision 60 Ft.,15,,Fire,,Medium,Fiend,Lawful Evil,17,12,14,6,13,6,50,Perception +5
+187,3,Killer Whale,90 (12d12+12),12 (Natural Armor),,Blindsight 120 Ft.,13,,,,Huge,Beast,Unaligned,19,10,13,3,12,7,Swim 60,Perception +3
+188,3,Knight,52 (8d8+16),18 (Plate),"Con +4, Wis +2",,10,,,,Medium,Humanoid (Any Race),Any Alignment,16,11,14,11,11,15,30,
+189,3,Manticore,68 (8d10+24),14 (Natural Armor),,Darkvision 60 Ft.,11,,,,Large,Monstrosity,Lawful Evil,17,16,17,7,12,8,"30, fly 50",
+190,3,Minotaur,76 (9d10+27),14 (Natural Armor),,Darkvision 60 Ft.,17,,,,Large,Monstrosity,Chaotic Evil,18,11,16,6,16,9,40,Perception +7
+191,3,Mummy,58 (9d8+18),11 (Natural Armor),Wis +2,Darkvision 60 Ft.,10,"bludgeoning, piercing, and slashing from nonmagical attacks","Necrotic, Poisoned",Fire,Medium,Undead,Lawful Evil,16,8,15,6,10,12,20,
+192,3,Nightmare,68 (8d10+24),13 (Natural Armor),,,11,,Fire,,Large,Fiend,Neutral Evil,18,15,16,10,13,15,"60, fly 90",
+193,3,Owlbear,59 (7d10+21),13 (Natural Armor),,Darkvision 60 Ft.,13,,,,Large,Monstrosity,Unaligned,20,12,17,3,12,7,40,Perception +3
+194,3,Phase Spider,32 (5d10+5),13 (Natural Armor),,Darkvision 60 Ft.,10,,,,Large,Monstrosity,Unaligned,15,15,12,6,10,6,"30, climb 30",Stealth +6
+195,3,Veteran,58 (9d8+18),17 (Splint),,,12,,,,Medium,Humanoid (Any Race),Any Alignment,16,13,14,10,11,10,30,"Athletics +5, Perception +2"
+196,3,Werewolf,58 (9d8+18),"11 (In Humanoid Form, 12 In Wolf Or Hybrid Form)",,,14,,"Bludgeoning, Piercing, And Slashing Damage From Nonmagical Weapons That Aren't Silvered",,Medium,"Humanoid (Human, Shapechanger)",Chaotic Evil,15,13,14,10,11,10,30 (40 in wolf form),Perception +4
+197,3,Wight,45 (6d8+18),14 (Studded Leather),,Darkvision 60 Ft.,13,"necrotic; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered",poison,,Medium,Undead,Neutral Evil,15,14,16,10,13,15,30,"Perception +3, Stealth +4"
+198,3,Winter Wolf,75 (10d10+20),13 (Natural Armor),,,15,,Cold,,Large,Monstrosity,Neutral Evil,18,13,14,7,12,8,50,"Perception +5, Stealth +3"
+199,4,Black Pudding,85 (10d10+30),7,,Blindsight 60 Ft. (Blind Beyond This Radius),8,,"Acid, Cold, Lightning, Slashing",,Large,Ooze,Unaligned,16,5,16,1,6,1,"20, climb 20",
+200,4,Chuul,93 (11d10+33),16 (Natural Armor),,Darkvision 60 Ft.,14,,Poison,,Large,Aberration,Chaotic Evil,19,10,16,5,11,5,"30, swim 30",Perception +4
+201,4,Couatl,97 (13d8+39),19 (Natural Armor),"Con +5, Wis +7, Cha +6",Truesight 120 Ft.,15,Radiant,"Psychic; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",,Medium,Celestial,Lawful Good,16,20,17,18,20,18,"30, fly 90",
+202,4,Elephant,76 (8d12+24),12 (Natural Armor),,,10,,,,Huge,Beast,Unaligned,22,9,17,3,11,6,40,
+203,4,Ettin,85 (10d10+30),12 (Natural Armor),,Darkvision 60 Ft.,14,,,,Large,Giant,Chaotic Evil,21,8,17,6,10,8,40,Perception +4
+204,4,Ghost,45 (10d8),11,,Darkvision 60 Ft.,11,"Acid, Fire, Lightning, Thunder; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons","Cold, Necrotic, Poison",,Medium,Undead,Any Alignment,7,13,10,10,12,17,"0, fly 40 It can hover.",
+205,4,Lamia,97 (13d10+26),13 (Natural Armor),,Darkvision 60 Ft.,12,,,,Large,Monstrosity,Chaotic Evil,16,13,15,14,15,16,30,"Deception +7, Insight +4, Stealth +3"
+206,4,Red Dragon Wyrmling,75 (10d8+30),17 (Natural Armor),"Dex +2, Con +5, Wis +2, Cha +4","Blindsight 10 Ft., Darkvision 60 Ft.",14,,Fire,,Medium,Dragon,Chaotic Evil,19,10,17,12,11,15,"30, climb 30, fly 60","Perception +4, Stealth +2"
+207,4,Succubus (Incubus),66 (12d8+12),15 (Natural Armor),,Darkvision 60 Ft.,15,"Cold, Fire, Lightning, Poison; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",,,Medium,Fiend (Shapechanger),Neutral Evil,8,17,13,15,12,20,"30, fly 60","Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7"
+208,4,Wereboar,78 (12d8+24),"10 (In Humanoid Form, 11 In Boar And Hybrid Forms )",,,12,,"Bludgeoning, Piercing, And Slashing Damage From Nonmagical Weapons That Aren't Silvered",,Medium,"Humanoid (Human, Shapechanger)",Neutral Evil,17,10,15,10,11,8,30 (40 in boar form),Perception +2
+209,4,Weretiger,120 (16d8+48),12,,Darkvision 60 Ft.,15,,"Bludgeoning, Piercing, And Slashing Damage From Nonmagical Weapons That Aren't Silvered",,Medium,"Humanoid (Human, Shapechanger)",Neutral,17,15,16,10,13,11,30 (40 in tiger form),"Perception +5, Stealth +4"
+210,5,Air Elemental,90 (12d10+24),15,,Darkvision 60 Ft.,10,"Lightning; Thunder; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",Poison,,Large,Elemental,Neutral,14,20,14,6,10,6,Fly 90 (hover),
+211,5,Barbed Devil,110 (13d8+52),15 (Natural Armor),"Str +6, Con +7, Wis +5, Cha +5",Darkvision 120 Ft.,18,"Cold; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons That Aren't Silvered","Fire, Poison",,Medium,Fiend (Devil),Lawful Evil,16,17,18,12,14,14,30,"Deception +5, Insight +5, Perception +8"
+212,5,Bulette,94 (9d10+45),17 (Natural Armor),,"Darkvision 60 Ft., Tremorsense 60 Ft.",16,,,,Large,Monstrosity,Unaligned,19,11,21,2,10,5,"40, burrow 40",Perception +6
+213,5,Earth Elemental,126 (12d10+60),17 (Natural Armor),,"Darkvision 60 Ft., Tremorsense 60 Ft.",10,"Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",Poison,Thunder,Large,Elemental,Neutral,20,8,20,5,10,5,"30, burrow 30",
+214,5,Fire Elemental,102 (12d10+36),13,,Darkvision 60 Ft.,10,"Bludgeoning, Piercing, And Slashing From Nonmagical Weapons","Fire, Poison",,Large,Elemental,Neutral,10,17,16,6,10,7,50,
+215,5,Flesh Golem,93 (11d8+44),9,,Darkvision 60 Ft.,10,,"Lightning, Poison; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons That Aren't Adamantine",,Medium,Construct,Neutral,19,9,18,6,10,5,30,
+216,5,Giant Crocodile,85 (9d12+27),14 (Natural Armor),,,10,,,,Huge,Beast,Unaligned,21,9,17,2,10,7,"30, swim 50",Stealth +5
+217,5,Giant Shark,126 (11d12+55),13 (Natural Armor),,Blindsight 60 Ft.,13,,,,Huge,Beast,Unaligned,23,11,21,1,10,5,Swim 50,Perception +3
+218,5,Gladiator,112 (15d8+45),"16 (Studded Leather, Shield)","Str +7, Dex +5, Con +6",,11,,,,Medium,Humanoid (Any Race),Any Alignment,18,15,16,10,12,15,30,"Athletics +10, Intimidation +5"
+219,5,Gorgon,114 (12d10+48),19 (Natural Armor),,Darkvision 60 Ft.,14,,Petrified,,Large,Monstrosity,Unaligned,20,11,18,2,12,7,40,Perception +4
+220,5,Half-Red Dragon Veteran,65,18 (plate),,"Blindsight 10 ft., Darkvision 60 ft.",12,Fire,,,Medium,Humanoid (human),Any,16,13,14,10,11,10,30,"Athletics +5, Perception +2"
+221,5,Hill Giant,105 (10d12+40),13 (Natural Armor),,,12,,,,Huge,Giant,Chaotic Evil,21,8,19,5,9,6,40,Perception +2
+222,5,Night Hag,112 (15d8+45),17 (Natural Armor),,Darkvision 120 Ft.,16,"Cold, Fire; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons That Aren't Silvered",,,Medium,Fiend,Neutral Evil,18,15,16,16,14,16,30,"Deception +7, Insight +6, Perception +6, Stealth +6"
+223,5,Otyugh,114 (12d10+48),14 (Natural Armor),Con +7,Darkvision 120 Ft.,11,,,,Large,Aberration,Neutral,16,11,19,6,13,6,30,
+224,5,Roper,93 (11d10+33),20 (Natural Armor),,Darkvision 60 Ft.,16,,,,Large,Monstrosity,Neutral Evil,18,8,17,7,16,6,"10, climb 10","Perception +6, Stealth +5"
+225,5,Salamander,90 (12d10+24),15 (Natural Armor),,Darkvision 60 Ft.,10,"Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",Fire,Cold,Large,Elemental,Neutral Evil,18,14,15,11,10,12,30,
+226,5,Shambling Mound,136 (16d10+48),15 (Natural Armor),,Blindsight 60 Ft. (Blind Beyond This Radius),10,"Cold, Fire",Lightning,,Large,Plant,Unaligned,18,8,16,5,10,5,"20, swim 20",Stealth +2
+227,5,Triceratops,95 (10d12+30),13 (Natural Armor),,,10,,,,Huge,Beast,Unaligned,22,9,17,2,11,5,50,
+228,5,Troll,84 (8d10+40),15 (Natural Armor),,Darkvision 60 Ft.,12,,,,Large,Giant,Chaotic Evil,18,13,20,7,9,7,30,Perception +2
+229,5,Unicorn,67 (9d10+18),12,,Darkvision 60 Ft.,13,,Poison,,Large,Celestial,Lawful Good,18,14,15,11,17,16,50,
+230,5,Vampire Spawn,82 (11d8+33),15 (Natural Armor),"Dex +6, Wis +3",Darkvision 60 Ft.,13,"Necrotic; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",,,Medium,Undead,Neutral Evil,16,16,16,11,10,12,30,"Perception +3, Stealth +6"
+231,5,Water Elemental,114 (12d10+48),14 (Natural Armor),,Darkvision 60 Ft.,10,"Acid; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",Poison,,Large,Elemental,Neutral,18,14,18,5,10,8,"30, swim 90",
+232,5,Werebear,135 (18d8+54),"10 (In Humanoid Form, 11 In Bear And Hybrid Forms )",,,17,,"Bludgeoning, Piercing, And Slashing Damage From Nonmagical Weapons That Aren't Silvered",,Medium,"Humanoid (Human, Shapechanger)",Neutral Good,19,10,17,11,12,12,"30 (40, climb 30 in bear or hybrid form)",Perception +7
+233,5,Wraith,67 (9d8+27),13,,Darkvision 60 Ft.,12,"Acid, Cold, Fire, Lightning, Thunder; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons That Aren't Silvered","Necrotic, Poison",,Medium,Undead,Neutral Evil,6,16,16,12,14,15,"0, fly 60 (hover)",
+234,5,Xorn,73 (7d8+42),19 (Natural Armor),,"Darkvision 60 Ft., Tremorsense 60 Ft.",16,Piercing And Slashing From Nonmagical Weapons That Aren't Adamantine,,,Medium,Elemental,Neutral,17,10,22,11,10,11,"20, burrow 20","Perception +6, Stealth +3"
+235,6,Chimera,114 (12d10+48),14 (Natural Armor),,Darkvision 60 Ft.,18,,,,Large,Monstrosity,Chaotic Evil,19,11,19,3,14,10,"30, fly 60",Perception +8
+236,6,Drider,123 (13d10+52),19 (Natural Armor),,Darkvision 120 Ft.,15,,,,Large,Monstrosity,Chaotic Evil,16,16,18,13,14,12,"30, climb 30","Perception +5, Stealth +9"
+237,6,Invisible Stalker,104 (16d8+32),14,,Darkvision 60 Ft.,18,"Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",Poison,,Medium,Elemental,Neutral,16,19,14,10,15,11,"50, fly 50 (hover)","Perception +8, Stealth +10"
+238,6,Mage,40 (9d8),12 (15 With Mage Armor),"Int +6, Wis +4",,11,,,,Medium,Humanoid (Any Race),Any Alignment,9,14,11,17,12,11,30,"Arcana +6, History +6"
+239,6,Mammoth,126 (11d12+55),13 (Natural Armor),,,10,,,,Huge,Beast,Unaligned,24,9,21,3,11,6,40,
+240,6,Medusa,127 (17d8+51),15 (Natural Armor),,Darkvision 60 Ft.,14,,,,Medium,Monstrosity,Lawful Evil,10,15,16,12,13,15,30,"Deception +5, Insight +4, Perception +4, Stealth +5"
+241,6,Vrock,104 (11d10+44),15 (Natural Armor),"Dex +5, Wis +4, Cha +2",Darkvision 120 Ft.,11,"Cold, Fire, Lightning; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",Poison,,Large,Fiend (Demon),Chaotic Evil,17,15,18,8,13,8,"40, fly 60",
+242,6,Wyvern,110 (13d10+39),13 (Natural Armor),,Darkvision 60 Ft.,14,,,,Large,Dragon,Unaligned,19,10,16,5,12,6,"20, fly 80",Perception +4
+243,6,Young Brass Dragon,110 (13d10+39),17 (Natural Armor),"Dex +3, Con +6, Wis +3, Cha +5","Blindsight 30 Ft., Darkvision 120 Ft.",16,,Fire,,Large,Dragon,Chaotic Good,19,10,17,12,11,15,"40, burrow 20, fly 80","Perception +6, Persuasion +5, Stealth +3"
+244,6,Young White Dragon,133 (14d10+56),17 (Natural Armor),"Dex +3, Con +7, Wis +3, Cha +4","Blindsight 30 Ft., Darkvision 120 Ft.",16,,Cold,,Large,Dragon,Chaotic Evil,18,10,18,6,11,12,"40, burrow 20, fly 80, swim 40","Perception +6, Stealth +3"
+245,7,Giant Ape,157 (15d12+60),12,,,14,,,,Huge,Beast,Unaligned,23,14,18,7,12,7,"40, climb 40","Athletics +9, Perception +4"
+246,7,Oni,110 (13d10+39),16 (Chain Mail),"Dex +3, Con +6, Wis +4, Cha +5",Darkvision 60 Ft.,14,,,,Large,Giant,Lawful Evil,19,11,16,14,12,15,"30, fly 30","Arcana +5, Deception +8, Perception +4"
+247,7,Shield Guardian,142 (15d10+60),17 (Natural Armor),,"Blindsight 10 Ft., Darkvision 60 Ft.",10,,Poison,,Large,Construct,Unaligned,18,8,18,7,10,3,30,
+248,7,Stone Giant,126 (11d12+55),17 (Natural Armor),"Dex +5, Con +8, Wis +4",Darkvision 60 Ft.,14,,,,Huge,Giant,Neutral,23,15,20,10,12,9,40,"Athletics +12, Perception +4"
+249,7,Young Black Dragon,127 (15d10+45),18 (Natural Armor),"Dex +5, Con +6, Wis +3, Cha +5","Blindsight 30 Ft., Darkvision 120 Ft.",16,,Acid,,Large,Dragon,Chaotic Evil,19,14,17,12,11,15,"40, fly 80, swim 40","Perception +6, Stealth +5"
+250,7,Young Copper Dragon,119 (14d10+42),17 (Natural Armor),"Dex +4, Con +6, Wis +4, Cha +5","Blindsight 30 Ft., Darkvision 120 Ft.",17,,Acid,,Large,Dragon,Chaotic Good,19,12,17,16,13,15,"40, climb 40, fly 80","Deception +5, Perception +7, Stealth +4"
+251,8,Assassin,78 (12d8+24),15 (Studded Leather),"Dex +6, Int +4",,13,Poison,,,Medium,Humanoid (Any Race),Any Non-good Alignment,11,16,14,13,11,10,30,"Acrobatics +6, Deception +3, Perception +3, Stealth +9"
+252,8,Cloaker,78 (12d10+12),14 (Natural Armor),,Darkvision 60 Ft.,11,,,,Large,Aberration,Chaotic Neutral,17,15,12,13,12,14,"10, fly 40",Stealth +5
+253,8,Frost Giant,138 (12d12+60),15 (Patchwork Armor),"Con +8, Wis +3, Cha +4",,13,,Cold,,Huge,Giant,Neutral Evil,23,9,21,9,10,12,40,"Athletics +9, Perception +3"
+254,8,Hezrou,136 (13d10+65),16 (Natural Armor),"Str +7, Con +8, Wis +4",Darkvision 120 Ft.,11,"Cold, Fire, Lightning; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",Poison,,Large,Fiend (Demon),Chaotic Evil,19,17,20,5,12,13,30,
+255,8,Hydra,172 (15d12+75),15 (Natural Armor),,Darkvision 60 Ft.,16,,,,Huge,Monstrosity,Unaligned,20,12,20,2,10,7,"30, swim 30",Perception +6
+256,8,Spirit Naga,75 (10d10+20),15 (Natural Armor),"Dex +6, Con +5, Wis +5, Cha +6",Darkvision 60 Ft.,12,,Poison,,Large,Monstrosity,Chaotic Evil,18,17,14,16,15,16,40,
+257,8,Tyrannosaurus Rex,136 (13d12+52),13 (Natural Armor),,,14,,,,Huge,Beast,Unaligned,25,10,19,2,12,9,50,Perception +4
+258,8,Young Bronze Dragon,142 (15d10+60),18 (Natural Armor),"Dex +3, Con +7, Wis +4, Cha +6","Blindsight 30 Ft., Darkvision 120 Ft.",17,,Lightning,,Large,Dragon,Lawful Good,21,10,19,14,13,17,"40, fly 80, swim 40","Insight +4, Perception +7, Stealth +3"
+259,8,Young Green Dragon,136 (16d10+48),18 (Natural Armor),"Dex +4, Con +6, Wis +4, Cha +5","Blindsight 30 Ft., Darkvision 120 Ft.",17,,Poison,,Large,Dragon,Lawful Evil,19,12,17,16,13,15,"40, fly 80, swim 40","Deception +5, Perception +7, Stealth +4"
+260,9,Clay Golem,133 (14d10+56),14 (Natural Armor),,Darkvision 60 Ft.,9,,"Acid, Poison, Psychic; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons That Aren't Adamantine",,Large,Construct,Unaligned,20,9,18,3,8,1,20,
+261,9,Cloud Giant,200 (16d12+96),14 (Natural Armor),"Con +10, Wis +7, Cha +7",,17,,,,Huge,Giant,Neutral Good (50%) Or Neutral Evil (50%),27,10,22,12,16,16,40,"Insight +7, Perception +7"
+262,9,Fire Giant,162 (13d12+78),18 (Plate),"Dex +3, Con +10, Cha +5",,16,,Fire,,Huge,Giant,Lawful Evil,25,9,23,10,14,13,30,"Athletics +11, Perception +6"
+263,9,Glabrezu,157 (15d10+75),17 (Natural Armor),"Str +9, Con +9, Wis +7, Cha +7",Truesight 120 Ft.,13,"Cold, Fire, Lightning; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",Poison,,Large,Fiend (Demon),Chaotic Evil,20,15,21,19,17,16,40,
+264,9,Treant,138 (12d12+60),16 (Natural Armor),,,13,"Bludgeoning, Piercing",,Fire,Huge,Plant,Chaotic Good,23,8,21,12,16,12,30,
+265,9,Young Blue Dragon,152 (16d10+64),18 (Natural Armor),"Dex +4, Con +8, Wis +5, Cha +7","Blindsight 30 Ft., Darkvision 120 Ft.",19,,Lightning,,Large,Dragon,Lawful Evil,21,10,19,14,13,17,"40, burrow 40, fly 80","Perception +9, Stealth +4"
+266,9,Young Silver Dragon,168 (16d10+80),18 (Natural Armor),"Dex +4, Con +9, Wis +4, Cha +8","Blindsight 30 Ft., Darkvision 120 Ft.",18,,Cold,,Large,Dragon,Lawful Good,23,10,21,14,11,19,"40, fly 80","Arcana +6, History +6, Perception +8, Stealth +4"
+267,10,Aboleth,135 (18d10+36),17 (Natural Armor),"Con +6, Int +8, Wis +6",Darkvision 120 Ft.,20,,,,Large,Aberration,Lawful Evil,21,9,15,18,15,18,"10, swim 40","History +12, Perception +10"
+268,10,Deva,136 (16d8+64),17 (Natural Armor),"Wis +9, Cha +9",Darkvision 120 Ft.,19,"Radiant; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",,,Medium,Celestial,Lawful Good,18,18,18,17,20,20,"30, fly 90","Insight +9, Perception +9"
+269,10,Guardian Naga,127 (15d10+45),18 (Natural Armor),"Dex +8, Con +7, Int +7, Wis +8, Cha +8",Darkvision 60 Ft.,14,,Poison,,Large,Monstrosity,Lawful Good,19,18,16,16,19,18,40,
+270,10,Stone Golem,178 (17d10+85),17 (Natural Armor),,Darkvision 120 Ft.,10,,"Poison, Psychic; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons That Aren't Adamantine",,Large,Construct,Unaligned,22,9,20,3,11,1,30,
+271,10,Young Gold Dragon,178 (17d10+85),18 (Natural Armor),"Dex +6, Con +9, Wis +5, Cha +9","Blindsight 30 Ft., Darkvision 120 Ft.",19,,Fire,,Large,Dragon,Lawful Good,23,14,21,16,13,20,"40, fly 80, swim 40","Insight +5, Perception +9, Persuasion +9, Stealth +6"
+272,10,Young Red Dragon,178 (17d10+85),18 (Natural Armor),"Dex +4, Con +9, Wis +4, Cha +8","Blindsight 30 Ft., Darkvision 120 Ft.",18,,Fire,,Large,Dragon,Chaotic Evil,23,10,21,14,11,19,"40, climb 40, fly 80","Perception +8, Stealth +4"
+273,11,Behir,168 (16d12+64),17 (Natural Armor),,Darkvision 90 Ft.,16,,Lightning,,Huge,Monstrosity,Neutral Evil,23,16,18,7,14,12,"50, climb 40","Perception +6, Stealth +7"
+274,11,Chain Devil,85 (10d8+40),16 (Natural Armor),"Con +7, Wis +4, Cha +5",Darkvision 120 Ft.,8,"Cold; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons That Aren't Silvered","Fire, Poison",,Medium,Fiend (Devil),Lawful Evil,18,15,18,11,12,14,30,
+275,11,Djinni,161 (14d10+84),17 (Natural Armor),"Dex +6, Wis +7, Cha +9",Darkvision 120 Ft.,13,,"Lightning, Thunder",,Large,Elemental,Chaotic Good,21,15,22,15,16,20,"30, fly 90",
+276,11,Efreeti,200 (16d10+112),17 (Natural Armor),"Int +7, Wis +6, Cha +7",Darkvision 120 Ft.,12,,Fire,,Large,Elemental,Lawful Evil,22,12,24,16,15,16,"40, fly 60",
+277,11,Gynosphinx,136 (16d10+48),17 (Natural Armor),,Truesight 120 Ft.,18,"Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",Psychic,,Large,Monstrosity,Lawful Neutral,18,15,16,18,18,18,"40, fly 60","Arcana +12, History +12, Perception +8, Religion +8"
+278,11,Horned Devil,178 (17d10+85),18 (Natural Armor),"Str +10, Dex +7, Wis +7, Cha +7",Darkvision 120 Ft.,13,"Cold; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons That Aren't Silvered","Fire, Poison",,Large,Fiend (Devil),Lawful Evil,22,17,21,12,16,17,"20, fly 60",
+279,11,Remorhaz,195 (17d12+85),17 (Natural Armor),,"Darkvision 60 Ft., Tremorsense 60 Ft.",10,,"Cold, Fire",,Huge,Monstrosity,Unaligned,24,13,21,4,10,5,"30, burrow 20",
+280,11,Roc,248 (16d20+80),15 (Natural Armor),"Dex +4, Con +9, Wis +4, Cha +3",,14,,,,Gargantuan,Monstrosity,Unaligned,28,10,20,3,10,9,"20, fly 120",Perception +4
+281,12,Archmage,99 (18d8+18),12 (15 With Mage Armor),"Int +9, Wis +6",,12,"Damage From Spells; Non Magical Bludgeoning, Piercing, And Slashing (From Stoneskin)",,,Medium,Humanoid (Any Race),Any Alignment,10,14,12,20,15,16,30,"Arcana +13, History +13"
+282,12,Bone Devil,142 (15d10+60),19 (Natural Armor),"Int +5, Wis +6, Cha +7",Darkvision 120 Ft.,9,"Cold; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons That Aren't Silvered","Fire, Poison",,Large,Fiend (Devil),Lawful Evil,18,16,18,13,14,16,"40, fly 40","Deception +7, Insight +6"
+283,12,Erinyes,153 (18d8+72),18 (Plate),"Dex +7, Con +8, Wis +6, Cha +8",Truesight 120 Ft.,12,"Cold; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons That Aren't Silvered","Fire, Poison",,Medium,Fiend (Devil),Lawful Evil,18,16,18,14,14,18,"30, fly 60",
+284,13,Adult Brass Dragon,172 (15d12+75),18 (Natural Armor),"Dex +5, Con +10, Wis +6, Cha +8","Blindsight 60 Ft., Darkvision 120 Ft.",21,,Fire,,Huge,Dragon,Chaotic Good,23,10,21,14,13,17,"40, burrow 40, fly 80","History +7, Perception +11, Persuasion +8, Stealth +5"
+285,13,Adult White Dragon,200 (16d12+96),18 (Natural Armor),"Dex +5, Con +11, Wis +6, Cha +6","Blindsight 60 Ft., Darkvision 120 Ft.",21,,Cold,,Huge,Dragon,Chaotic Evil,22,10,22,8,12,12,"40, burrow 30, fly 80, swim 40","Perception +11, Stealth +5"
+286,13,Nalfeshnee,184 (16d10+96),18 (Natural Armor),"Con +11, Int +9, Wis +6, Cha +7",Truesight 120 Ft.,11,"Cold, Fire, Lightning; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",Poison,,Large,Fiend (Demon),Chaotic Evil,21,10,22,19,12,15,"20, fly 30",
+287,13,Rakshasa,110 (13d8+52),16 (Natural Armor),,Darkvision 60 Ft.,13,,"Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",Piercing From Magic Weapons Wielded By Good Creatures,Medium,Fiend,Lawful Evil,14,17,18,13,16,20,40,"Deception +10, Insight +8"
+288,13,Storm Giant,230 (20d12+100),16 (Scale Mail),"Str +14, Con +10, Wis +9, Cha +9",,19,Cold,"Lightning, Thunder",,Huge,Giant,Chaotic Good,29,14,20,16,18,18,"50, swim 50","Arcana +8, Athletics +14, History +8, Perception +9"
+289,13,Vampire,144 (17d8+68),16 (Natural Armor),"Dex +9, Wis +7, Cha +9",Darkvision 120 Ft.,17,"Necrotic; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",,,Medium,Undead (Shapechanger),Lawful Evil,18,18,18,17,15,18,30,"Perception +7, Stealth +9"
+290,14,Adult Black Dragon,195 (17d12+85),19 (Natural Armor),"Dex +7, Con +10, Wis +6, Cha +8","Blindsight 60 Ft., Darkvision 120 Ft.",21,,Acid,,Huge,Dragon,Chaotic Evil,23,14,21,14,13,17,"40, fly 80, swim 40","Perception +11, Stealth +7"
+291,14,Adult Copper Dragon,184 (16d12+80),18 (Natural Armor),"Dex +6, Con +10, Wis +7, Cha +8","Blindsight 60 Ft., Darkvision 120 Ft.",22,,Acid,,Huge,Dragon,Chaotic Good,23,12,21,18,15,17,"40, climb 40, fly 80","Deception +8, Perception +12, Stealth +6"
+292,14,Ice Devil,180 (19d10+76),18 (Natural Armor),"Dex +7, Con +9, Wis +7, Cha +9","Blindsight 60 Ft., Darkvision 120 Ft.",12,"Bludgeoning, Piercing, And Slashing From Nonmagical Weapons That Aren't Silvered","Fire, Poison",,Large,Fiend (Devil),Lawful Evil,21,14,18,18,15,18,40,
+293,15,Adult Bronze Dragon,212 (17d12+102),19 (Natural Armor),"Dex +5, Con +11, Wis +7, Cha +9","Blindsight 60 Ft., Darkvision 120 Ft.",22,,Lightning,,Huge,Dragon,Lawful Good,25,10,23,16,15,19,"40, fly 80, swim 40","Insight +7, Perception +12, Stealth +5"
+294,15,Adult Green Dragon,207 (18d12+90),19 (Natural Armor),"Dex +6, Con +10, Wis +7, Cha +8","Blindsight 60 Ft., Darkvision 120 Ft.",22,,Poison,,Huge,Dragon,Lawful Evil,23,12,21,18,15,17,"40, fly 80, swim 40","Deception +8, Insight +7, Perception +12, Persuasion +8, Stealth +6"
+295,15,Mummy Lord,97 (13d8+39),17 (Natural Armor),"Con +8, Int +5, Wis +9, Cha +8",Darkvision 60 Ft.,14,,"Necrotic, Poison; Bludgeoning, Piercing, And Slashing From Nonmagical Attacks",Bludgeoning,Medium,Undead,Lawful Evil,18,10,17,11,18,16,20,"History +5, Religion +5"
+296,15,Purple Worm,247 (15d20+90),18 (Natural Armor),"Con +11, Wis +4","Blindsight 30 Ft., Tremorsense 60 Ft.",9,,,,Gargantuan,Monstrosity,Unaligned,28,7,22,1,8,4,"50, burrow 30",
+297,16,Adult Blue Dragon,225 (18d12+108),19,"Dex +5, Con +11, Wis +7, Cha +9","Blindsight 60 Ft., Darkvision 120 Ft.",22,,Lightning,,Huge,Dragon,Lawful Evil,25,10,23,16,15,19,"40, burrow 30, fly 80","Perception +12, Stealth +5"
+298,16,Adult Silver Dragon,243 (18d12+126),19 (Natural Armor),"Dex +5, Con +12, Wis +6, Cha +10","Blindsight 60 Ft., Darkvision 120 Ft.",21,,Cold,,Huge,Dragon,Lawful Good,27,10,25,16,13,21,"40, fly 80","Arcana +8, History +8, Perception +11, Stealth +5"
+299,16,Iron Golem,210 (20d10+100),20 (Natural Armor),,Darkvision 120 Ft.,10,,"Fire, Poison, Psychic; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons That Aren't Adamantine",,Large,Construct,Unaligned,24,9,20,3,11,1,30,
+300,16,Marilith,189 (18d10+90),18 (Natural Armor),"Str +9, Con +10, Wis +8, Cha +10",Truesight 120 Ft.,13,"Cold, Fire, Lightning; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",Poison,,Large,Fiend (Demon),Chaotic Evil,18,20,20,18,16,20,40,
+301,16,Planetar,200 (16d10+112),19 (Natural Armor),"Con +12, Wis +11, Cha +12",Truesight 120 Ft.,21,"Radiant; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",,,Large,Celestial,Lawful Good,24,20,24,19,22,25,"40, fly 120",Perception +11
+302,17,Adult Gold Dragon,256 (19d12+133),19 (Natural Armor),"Dex +8, Con +13, Wis +8, Cha +13","Blindsight 60 Ft., Darkvision 120 Ft.",24,,Fire,,Huge,Dragon,Lawful Good,27,14,25,16,15,24,"40, fly 80, swim 40","Insight +8, Perception +14, Persuasion +13, Stealth +8"
+303,17,Adult Red Dragon,256 (19d12+133),19 (Natural Armor),"Dex +6, Con +13, Wis +7, Cha +11","Blindsight 60 Ft., Darkvision 120 Ft.",23,,Fire,,Huge,Dragon,Chaotic Evil,27,10,25,16,13,21,"40, climb 40, fly 80","Perception +13, Stealth +6"
+304,17,Androsphinx,199 (19d10+95),17 (Natural Armor),"Dex +6, Con +11, Int +9, Wis +10",Truesight 120 Ft.,20,,"Psychic; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",,Large,Monstrosity,Lawful Neutral,22,10,20,16,18,23,"40, fly 60","Arcana +9, Perception +10, Religion +15"
+305,17,Dragon Turtle,341 (22d20+10),20 (Natural Armor),"Dex +6, Con +11, Wis +7",Darkvision 120 Ft.,11,Fire,,,Gargantuan,Dragon,Neutral,25,10,20,10,12,12,"20, swim 40",
+306,19,Balor,262 (21d12+126),19 (Natural Armor),"Str +14, Con +12, Wis +9, Cha +12",Truesight 120 Ft.,13,"Cold, Lightning; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons","Fire, Poison",,Huge,Fiend (Demon),Chaotic Evil,26,15,22,20,16,22,"40, fly 80",
+307,20,Ancient Brass Dragon,297 (17d20+119),20 (Natural Armor),"Dex +6, Con +13, Wis +8, Cha +10","Blindsight 60 Ft., Darkvision 120 Ft.",24,,Fire,,Gargantuan,Dragon,Chaotic Good,27,10,25,16,15,19,"40, burrow 40, fly 80","History +9, Perception +14, Persuasion +10, Stealth +6"
+308,20,Ancient White Dragon,333 (18d20+144),20 (Natural Armor),"Dex +6, Con +14, Wis +7, Cha +8","Blindsight 60 Ft., Darkvision 120 Ft.",23,,Cold,,Gargantuan,Dragon,Chaotic Evil,26,10,26,10,13,14,"40, burrow 40, fly 80, swim 40","Perception +13, Stealth +6"
+309,20,Pit Fiend,300 (24d10+168),19 (Natural Armor),"Dex +8, Con +13, Wis +10",Truesight 120 Ft.,14,"Cold; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons That Aren't Silvered","Fire, Poison",,Large,Fiend (Devil),Lawful Evil,26,14,24,22,18,24,"30, fly 60",
+310,21,Ancient Black Dragon,367 (21d20+147),22 (Natural Armor),"Dex +9, Con +14, Wis +9, Cha +11","Blindsight 60 Ft., Darkvision 120 Ft.",26,,Acid,,Gargantuan,Dragon,Chaotic Evil,27,14,25,16,15,19,"40, fly 80, swim 40","Perception +16, Stealth +9"
+311,21,Ancient Copper Dragon,350 (20d20+140),21 (Natural Armor),"Dex +8, Con +14, Wis +10, Cha +11","Blindsight 60 Ft., Darkvision 120 Ft.",27,,Acid,,Gargantuan,Dragon,Chaotic Good,27,12,25,20,17,19,"40, climb 40, fly 80","Deception +11, Perception +17, Stealth +8"
+312,21,Lich,135 (18d8+54),17 (Natural Armor),"Con +10, Int +12, Wis +9",Truesight 120 Ft.,19,"Cold, Lightning, Necrotic","Poison; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",,Medium,Undead,Any Evil Alignment,11,16,16,20,14,16,30,"Arcana +18, History +12, Insight +9, Perception +9"
+313,21,Solar,243 (18d10+144),21 (Natural Armor),"Int +14, Wis +14, Cha +17",Truesight 120 Ft.,24,"Radiant; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons","Necrotic, Poison",,Large,Celestial,Lawful Good,26,22,26,25,25,30,"50, fly 150",Perception +14
+314,22,Ancient Bronze Dragon,444 (24d20+192),22 (Natural Armor),"Dex +7, Con +15, Wis +10, Cha +12","Blindsight 60 Ft., Darkvision 120 Ft.",27,,Lightning,,Gargantuan,Dragon,Lawful Good,29,10,27,18,17,21,"40, fly 80, swim 40","Insight +10, Perception +17, Stealth +7"
+315,22,Ancient Green Dragon,385 (22d20+154),21 (Natural Armor),"Dex +8, Con +14, Wis +10, Cha +11","Blindsight 60 Ft., Darkvision 120 Ft.",27,,Poison,,Gargantuan,Dragon,Lawful Evil,27,12,25,20,17,19,"40, fly 80, swim 40","Deception +11, Insight +10, Perception +17, Persuasion +11, Stealth +8"
+316,23,Ancient Blue Dragon,481 (26d20+208),22 (Natural Armor),"Dex +7, Con +15, Wis +10, Cha +12","Blindsight 60 Ft., Darkvision 120 Ft.",27,,Lightning,,Gargantuan,Dragon,Lawful Evil,29,10,27,18,17,21,"40, burrow 40, fly 80","Perception +17, Stealth +7"
+317,23,Ancient Silver Dragon,487 (25d20+225),22 (Natural Armor),"Dex +7, Con +16, Wis +9, Cha +13","Blindsight 60 Ft., Darkvision 120 Ft.",26,,Cold,,Gargantuan,Dragon,Lawful Good,30,10,29,18,15,23,"40, fly 80","Arcana +11, History +11, Perception +16, Stealth +7"
+318,23,Kraken,472 (27d20+189),18 (Natural Armor),"Str +17, Dex +7, Con +14, Int +13, Wis +11",Truesight 120 Ft.,14,,"Lightning; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",,Gargantuan,Monstrosity (Titan),Chaotic Evil,30,11,25,22,18,20,"20, swim 60",
+319,24,Ancient Gold Dragon,546 (28d20+252),22 (Natural Armor),"Dex +9, Con +16, Wis +10, Cha +16","Blindsight 60 Ft., Darkvision 120 Ft.",27,,Fire,,Gargantuan,Dragon,Lawful Good,30,14,29,18,17,28,"40, fly 80, swim 40","Insight +10, Perception +17, Persuasion +16, Stealth +9"
+320,24,Ancient Red Dragon,546 (28d20+252),22 (Natural Armor),"Dex +7, Con +16, Wis +9, Cha +13","Blindsight 60 Ft., Darkvision 120 Ft.",26,,Fire,,Gargantuan,Dragon,Chaotic Evil,30,10,29,18,15,23,"40, climb 40, fly 80","Perception +16, Stealth +7"
+321,30,Tarrasque,676 (33d20+330),25 (Natural Armor),"Int +5, Wis +9, Cha +9",Blindsight 120 Ft.,10,,"Fire, Poison; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",,Gargantuan,Monstrosity (Titan),Unaligned,30,11,30,3,11,11,40,
